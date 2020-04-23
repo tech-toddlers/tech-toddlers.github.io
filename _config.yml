@@ -2,7 +2,7 @@
 title: meuse
 timezone: America/New_York
 
-baseurl: "/Meuse"
+baseurl: "/"
 url: "https://tech-toddlers.github.io"
 description:
   Built for developers, Loved by everyone. Supports Jekyll, user collaboration,
