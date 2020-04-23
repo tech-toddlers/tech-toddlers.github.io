@@ -3,25 +3,26 @@ title: meuse
 timezone: America/New_York
 
 baseurl: "/Meuse"
-url: "https://jameswquinn.github.io"
-description: Built for developers, Loved by everyone. Supports Jekyll, user collaboration,
+url: "https://tech-toddlers.github.io"
+description:
+  Built for developers, Loved by everyone. Supports Jekyll, user collaboration,
   publishing to AWS S3, GitHub Pages, FTP, and more.
-  
+
 permalink: pretty
 exclude:
-- Gruntfile.js
-- Gemfile
-- Gemfile.lock
-- package.json
-- README*
-- node_modules
-- ".gitignore"
+  - Gruntfile.js
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - README*
+  - node_modules
+  - ".gitignore"
 
 gems:
-- jekyll-seo-tag
-- jekyll-sitemap
-- jekyll-seo-tag
-- jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
 
 markdown: kramdown
 kramdown:
@@ -41,4 +42,3 @@ google_analytics: UA-1666437-33
 twitter:
   username: null
 logo: "/assets/logo.svg"
-
