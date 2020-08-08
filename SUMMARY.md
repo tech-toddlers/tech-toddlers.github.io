@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Tech Toddlers](README.md)
+* [Initial page](README.md)
 

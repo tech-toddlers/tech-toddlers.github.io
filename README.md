@@ -1,2 +1,2 @@
-# Tech Toddlers
+# Initial page
 
